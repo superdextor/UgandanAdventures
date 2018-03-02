@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "ua:way" },
+        "facing=south": { "model": "ua:way", "y": 180 },
+        "facing=west":  { "model": "ua:way", "y": 270 },
+        "facing=east":  { "model": "ua:way", "y": 90 }
+    }
+}

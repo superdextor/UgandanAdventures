@@ -1,0 +1,43 @@
+{
+    "pools": [
+        {
+            "rolls": {
+                "min": 3,
+                "max": 7
+            },
+			"name": "whey",
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "ua:whey"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+			"name": "records",
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "ua:record_1",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "ua:record_2",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "ua:record_3",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "ua:record_4",
+                    "weight": 1
+                }
+            ]
+        }
+    ]
+}
