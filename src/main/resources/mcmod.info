@@ -1,0 +1,17 @@
+[
+{
+  "modid": "ua",
+  "name": "Ugandan Adventures",
+  "description": "Welp, someone had todo it",
+  "version": "1.11.2",
+  "mcversion": "1.11.2",
+  "url": "http://minecraft.curseforge.com/projects/ugandan-adventures",
+  "updateUrl": "",
+  "authorList": ["superdextor"],
+  "credits": "Gregzilla",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "requiredMods": [ "Forge", "thinkbigcore" ],
+  "dependencies": [ "thinkbigcore" ]
+}
+]

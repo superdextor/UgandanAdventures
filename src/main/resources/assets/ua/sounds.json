@@ -1,0 +1,104 @@
+{
+  "records.onfire": {
+    "sounds": [
+      {
+        "name": "ua:records/onfire",
+        "stream": true
+      }
+    ]
+  },
+  "records.knuckles": {
+    "sounds": [
+      {
+        "name": "ua:records/knuckles",
+        "stream": true
+      }
+    ]
+  },
+  "records.udontknow": {
+    "sounds": [
+      {
+        "name": "ua:records/udontknow",
+        "stream": true
+      }
+    ]
+  },
+  "records.dewae": {
+    "sounds": [
+      {
+        "name": "ua:records/dewae",
+        "stream": true
+      }
+    ]
+  },
+  "entity.knuckles.talkingto": {
+    "sounds": [
+      "ua:entitys/knuckles/do-you-know-the-way",
+      "ua:entitys/knuckles/do-you-know-the-way2",
+      "ua:entitys/knuckles/i-will-teach-you-the-way",
+      "ua:entitys/knuckles/speak-the-way-of-the-devil",
+      "ua:entitys/knuckles/you-do-not-have-the-power",
+      "ua:entitys/knuckles/you-do-not-know-the-way"
+    ],
+    "subtitle": "subtitles.entity.knuckles.talkingto"
+  },
+  "entity.knuckles.tribe": {
+    "sounds": [
+      "ua:entitys/knuckles/do-you-know-the-way",
+      "ua:entitys/knuckles/do-you-know-the-way2",
+      "ua:entitys/knuckles/god-is-dead",
+      "ua:entitys/knuckles/he-doesnt-know-the-way",
+      "ua:entitys/knuckles/i-will-teach-you-the-way",
+      "ua:entitys/knuckles/let-us-go-to-uganda-my-brothers",
+      "ua:entitys/knuckles/i-never-freeze"
+    ],
+    "subtitle": "subtitles.entity.knuckles.tribe"
+  },
+  "entity.knuckles.fighting": {
+    "sounds": [
+      "ua:entitys/knuckles/do-not-run",
+      "ua:entitys/knuckles/the-devil-will-never-claim-your-soul",
+      "ua:entitys/knuckles/this-is-not-the-way",
+      "ua:entitys/knuckles/we-are-being-tricked",
+      "ua:entitys/knuckles/why-are-you-running",
+      "ua:entitys/knuckles/you-cannot-escape-the-devil",
+      "ua:entitys/knuckles/i-never-freeze"
+    ],
+    "subtitle": "subtitles.entity.knuckles.fighting"
+  },
+  "entity.knuckles.hurt": {
+    "sounds": [
+      "ua:entitys/knuckles/you-stupid-foul",
+      "ua:entitys/knuckles/god-is-dead",
+      "ua:entitys/knuckles/this-is-not-the-way",
+      "ua:entitys/knuckles/we-are-being-tricked",
+      "ua:entitys/knuckles/you-do-not-have-the-power",
+      "ua:entitys/knuckles/you-cannot-escape-the-devil"
+    ],
+    "subtitle": "subtitles.entity.knuckles.hurt"
+  },
+  "entity.knuckles.death": {
+    "sounds": [
+      "ua:entitys/knuckles/he-just-died-of-ebola-look-at-him",
+      "ua:entitys/knuckles/my-ebola-is-not-allowed-in-this-land",
+      "ua:entitys/knuckles/oh-no",
+      "ua:entitys/knuckles/oh-no"
+    ],
+    "subtitle": "subtitles.entity.knuckles.death"
+  },
+  "entity.knuckles.clack": {
+    "sounds": [
+      "ua:entitys/knuckles/clack",
+      "ua:entitys/knuckles/clack2",
+      "ua:entitys/knuckles/clack3",
+      "ua:entitys/knuckles/clack4"
+    ],
+    "subtitle": "subtitles.entity.knuckles.clack"
+  },
+  "entity.knuckles.spit": {
+    "sounds": [
+      "ua:entitys/knuckles/spit"
+    ],
+    "subtitle": "subtitles.entity.knuckles.spit"
+  }
+}
