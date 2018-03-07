@@ -370,6 +370,7 @@ public abstract class EntityKnuckles extends EntityTameable implements IRangedAt
     	return (short) (130 + this.rand.nextInt(60));
     }
     
+    @Override
     public boolean processInteract(EntityPlayer player, EnumHand hand)
     {
         ItemStack itemstack = player.getHeldItem(hand);
